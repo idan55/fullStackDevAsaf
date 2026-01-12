@@ -1,0 +1,10 @@
+/Users/idanhadad/Desktop/Ort/fullStackDevelopmentAsaf/projectRust/project/target/debug/deps/actix_utils-5702497f1eb6204d.d: /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/lib.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/counter.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/mod.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/either.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/poll_fn.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/ready.rs
+
+/Users/idanhadad/Desktop/Ort/fullStackDevelopmentAsaf/projectRust/project/target/debug/deps/libactix_utils-5702497f1eb6204d.rmeta: /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/lib.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/counter.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/mod.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/either.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/poll_fn.rs /Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/ready.rs
+
+/Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/lib.rs:
+/Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/counter.rs:
+/Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/mod.rs:
+/Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/either.rs:
+/Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/poll_fn.rs:
+/Users/idanhadad/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-utils-3.0.1/src/future/ready.rs:
